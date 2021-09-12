@@ -27,3 +27,5 @@ cmake ..
 make
 ```
 if you prefer, you can use cmake-gui as it has a nicer interface.
+
+feel free to share your opinion and even edit the code in a way that you think is better, any help is welcome.
