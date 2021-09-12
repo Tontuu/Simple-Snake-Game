@@ -21,6 +21,7 @@ sudo apt-get install libsfml-dev
 <h4>Unix-like (Linux, BSD etc.)</h4>
 
 ```
+mkdir build
 cd build
 cmake ..
 make
