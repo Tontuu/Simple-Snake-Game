@@ -1,6 +1,8 @@
 # Simple-Snake-Game
 The classic snake game made as a self-learning for training and fun, written in c++ and based on [SFML Library](https://www.sfml-dev.org/)
 
+<img src="https://i.imgur.com/bBDlcu5.png" alt="SnakeGame Shot">
+
 <h2>Basic instruction</h2>
 
 
